@@ -25,7 +25,7 @@ Designed to run smoothly in any environment — even on a phone — using only s
 
 ## Project Structure
 
-sales-insight-engine/ │ ├── main_launcher.py       # Entry point for running the tool ├── engine.py              # Loading, cleaning, revenue logic, plots ├── utils.py               # Helpers: convert(), proceed() ├── cli_utils.py           # Terminal clearing + loading animation ├── summary.py             # Formatted sales summary │ ├── cleaned_data/          # Auto-created output folder └── images/                # Auto-created plot folder
+sales-insight-engine/ │ ├── main_launcher.py       # Entry point for running the tool <br>├── engine.py              # Loading, cleaning, revenue logic, plots <br>├── utils.py               # Helpers: convert(), proceed() <br>├── cli_utils.py           # Terminal clearing + loading animation <br>├── summary.py             # Formatted sales summary │ <br>├── cleaned_data/          # Auto-created output folder <br>└── images/                # Auto-created plot folder
 
 ---
 
