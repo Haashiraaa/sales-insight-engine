@@ -71,13 +71,14 @@ Plots are saved to the images/ folder.
 ## Saving the Cleaned Dataset
 
 Enable saving by toggling:
-
+```bash
 save_cleaned_data(cleaned_data, can_save=True)
-
+```
 Supports:
 
-CSV
+CSV<br>
 Excel
+
 
 
 
