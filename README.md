@@ -82,7 +82,7 @@ Excel
 ---
 
 ## Clean Output Example
-
+```bash
 =========== Sales Summary ===========
 Total Rows: 4500
 Missing Values Handled: 12
@@ -93,7 +93,7 @@ Electronics - $1,204,500.00
 
 Overall Insights:
 The top-performing categories are driving the largest share...
-
+```
 
 ---
 
@@ -107,9 +107,9 @@ matplotlib
 
 
 Install with:
-
+```bash
 pip install pandas matplotlib
-
+```
 
 ---
 
