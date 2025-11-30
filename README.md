@@ -33,6 +33,8 @@ sales-insight-engine/ │ ├── main_launcher.py       # Entry point for run
 
 ```bash
 git clone https://github.com/Haashiraaa/sales-insight-engine.git
+cd sales-insight-engine
+
 python main_launcher.py
 ```
 You will be asked to upload your CSV file path:
